@@ -1,2 +1,3 @@
 informacion
-archivo de información
+cambio nuevo 1
+cambio nuevo 2
