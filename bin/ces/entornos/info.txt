@@ -1,1 +1,2 @@
 informacion
+archivo de información
